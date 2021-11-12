@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\lenovo\eclipse-workspace1\Training_LTI\.git"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Anushree1996/ARK"/>
+		<item value="https://github.com/https://github.com/Anushree1996/ARK.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="lenovo &lt;lenovo@Lenovo-PC&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="lenovo &lt;lenovo@Lenovo-PC&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\lenovo\eclipse-workspace1\Training_LTI\.git">
+			<item value="false"/>
+			<item value="lenovo &lt;lenovo@Lenovo-PC&gt;"/>
+			<item value="Anushree added code to git"/>
+			<item value="lenovo &lt;lenovo@Lenovo-PC&gt;"/>
+			<item value="198179e6e49cde4894bf11b103b7924e986dbd30"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>
